@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Frontend Engineer passionate about collaboration and delivering exceptional client experiences. After graduating Cum Laude at UC Santa Cruz (Bachelor of Business Management Economics), I obtained her CPA license and practiced as a Senior Tax Consultant at multiple firms including Deloitte. Seeking a change in career to follow my interests, I completed a 12 week Full Stack Web Development bootcamp course at UC Berkeley. I have experience working with technologies including React, Node as well as MongoDB and MySQL. I'm a continuous learner who’s looking for opportunities to further develop her professional skills at a company making a positive social impact.
+
+🌱 I’m currently learning python
+👯 I’m looking to collaborate on a project for a blockchain hackathon
+💬 Ask me about my availability to interview :) 
+📫 How to reach me: jerpowel321@gmail.com
+⚡ Fun fact: I make a really good seafood fried rice 🍚
+
 <!--
 **jerpowel321/jerpowel321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
