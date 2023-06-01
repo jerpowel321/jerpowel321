@@ -2,8 +2,8 @@
 
 I'm a Frontend Engineer passionate about collaboration and delivering exceptional client experiences. After graduating Cum Laude at UC Santa Cruz (Bachelor of Business Management Economics), I obtained my CPA license and practiced as a Senior Tax Consultant at multiple firms including Deloitte. Seeking a change in career to follow my interests, I completed a 12 week Full Stack Web Development bootcamp course at UC Berkeley. I have experience working with technologies including React, React Native, Node and more. I'm a continuous learner who’s looking for opportunities to further develop my professional skills at a company making a positive social impact.
 
-Site: jennifer-powell.com
-LinkedIn: linkedin.com/in/jenniferrpowell/
+Site: [jennifer-powell.com](jennifer-powell.com)
+LinkedIn: [linkedin.com/in/jenniferrpowell/](linkedin.com/in/jenniferrpowell/)
 📫 How to reach me: Message me via LinkedIn
 
 <!--
